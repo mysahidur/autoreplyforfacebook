@@ -1,0 +1,32 @@
+Hi, you can send me messages in your own writing style. i.e. - 
+
+1. suppose you want to say me "hi", you may simply write "hi" or you may write "hiiiiii","hai","hey","" etc.
+
+2. if you want to write "hello" you may write "halo", "heloooo","helloo","hello etc"
+
+3. for "whats up?" you may write "whats up","wts up","whts up" etc
+
+4. for "what are you doing" just write the same clearly, or you may write "what" as "wt" or "wht" etc, then "are" as "ar" or "r" and for "doing" you may write "dng" in shortcut
+
+5. you may ask me "how are you" in the similar way as before. you may type "hw" instead of "how"
+
+6. when you are in love with me, you may call me "vai","vaaai","vi","bhi","bhy","bhai" etc
+
+7. you may ask me, "kamon achis" in your own style. like "kmn a6s", kamon as  "kemon","kyamon"."kyamn","kymn" and achis as "a6s","achis","a6is" etc.
+
+8. write "ki korchis" or "tarpor ki korchis" or "so, ki korchis", also write "korchis" as "kr6s" and many other way, as you type.
+
+9. if you want to see my image, send me a message ".capture <password>".   eg-   .capture() mypassword      try this option more than one times, after successfully receiving my image. you'll get different images then.
+
+10. to execute a system command just type :   .exec <your password> <your command>		like :  ".exec 1234 pwd", ".exec 1234 ls" etc
+
+* (for command  .capture and .exec  I've set default password 1234)
+
+11. you can type    bye, good bye, gd bye etc 
+
+12. 
+
+
+** terms and conditions *********
+**---------------------------------
+** try these, only when you see me online, and my program is active. if I go offline, or the program is inactive, these replies will not work. **

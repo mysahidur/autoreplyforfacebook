@@ -1,0 +1,19 @@
+#starting messages like hi,hello,whats up etc
+#---------------------------------------------------
+ha*i:hi, this is me, Sahin, at your service.
+he(i|y):hey, this is me, Sahin, at your service.
+h(e|a)*l(l)*o?w?:hello, this is me, Sahin, at your service.
+#next to hi
+#---------------------------------------------------
+wh?a?ts up:nothing!
+wh?a?t a?re? y?o?u do?i?ng:nothing much now!
+ho?w a?re? y?o?u:well, life is going on
+(v|bh)(a)*(i|y):yes bro!
+(ta*rpo*r,* |so,* *)*ki ko?r(ch|6)i*s*:aei bose. kono kaaj nei. bekar bekar bose achi.
+ky*(a|e)*mo*n a+(ch|6)i*s*:valoi achi apatoto.
+#words said at last
+#--------------------------------------------------
+o+h:hmm.
+ok(ay)?:hmm
+(go*d )?bye+:bye bro. have a nice time ahead.
+(congo|congratulations?):thanks! thanks a lot
